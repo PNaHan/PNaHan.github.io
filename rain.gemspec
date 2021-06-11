@@ -1,10 +1,10 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "rain"
+  spec.name          = "PNaHan"
   spec.version       = "0.1.0"
   spec.authors       = ["Inela Avdic Hukic"]
-  spec.email         = ["inelaah@gmail.com"]
+  spec.email         = ["qkrskgks44@gmail.com"]
 
   spec.summary       = %q{Rain is a simple and clean Jekyll theme with focus on content.}
   spec.homepage      = ""
