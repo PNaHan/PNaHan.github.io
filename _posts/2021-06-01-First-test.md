@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lorem Ipsum post"
+title: "First test post"
 author: "PNaHan"
 ---
 
