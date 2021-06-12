@@ -6,11 +6,11 @@ author: "PNaHan"
 
 Department of Computer Science, IoT
 
-RaspberryPi 
+RaspberryPi PIR Sensor
 
 ![Raspb](../images/Raspberry_Pi_Photo.jpg)
 
-``` [Python PIR Sensor]
+``` [Python]
 #include <stdio.h>
 #include <wiringPi.h>
 
