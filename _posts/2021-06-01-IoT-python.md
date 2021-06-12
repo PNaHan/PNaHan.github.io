@@ -8,4 +8,4 @@ Department of Computer Science, IoT
 
 RaspberryPi 
 
-![Raspb](./img/Raspberry_Pi_Photo.jpg)
+![Raspb](./images/Raspberry_Pi_Photo.jpg)
