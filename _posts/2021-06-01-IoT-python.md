@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First test post"
+title: "IoT Python"
 author: "PNaHan"
 ---
 
