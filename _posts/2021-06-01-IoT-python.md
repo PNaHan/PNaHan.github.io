@@ -4,4 +4,6 @@ title: "IoT Python"
 author: "PNaHan"
 ---
 
-First Test
+Department of Computer Science, IoT
+
+RaspberryPi 
