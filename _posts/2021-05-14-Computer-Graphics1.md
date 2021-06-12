@@ -26,7 +26,7 @@ Adobe PhotoShop, OpenGL
     int main(int argc, char** argv) {
       glutInit(&argc, argv);
       glutCreateWindow("OpenGL");
-      glutDisplayFunc(display); // 여기서 그릴 함수를 넣어준다.
+      glutDisplayFunc(display);
       glutMainLoop();
       return 0;
     }
